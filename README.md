@@ -66,7 +66,7 @@ Several business metrics were created during the analysis:
 
 ## Page 1 — Hospital Capacity & Operational Performance Overview
 
-![Page 1](images/page1.png)
+![Page 1](page1.png)
 
 ### Objectives
 
@@ -90,7 +90,7 @@ Emergency services experienced the highest refusal rates, while patient satisfac
 
 ## Page 2 — Staffing & Operational Pressure
 
-![Page 2](images/page2.png)
+![Page 2](page2.png)
 
 ### Objectives
 
@@ -112,7 +112,7 @@ Operational pressure is concentrated in Emergency and General Medicine services.
 
 ## Page 3 — Operational Impact on Patient Experience
 
-![Page 3](images/page3.png)
+![Page 3](page3.png)
 
 ### Objectives
 
@@ -134,7 +134,7 @@ Patient refusals remained high even during normal operating periods, suggesting 
 
 ## Page 4 — Operational Bottlenecks & Strategic Recommendations
 
-![Page 4](images/page4.png)
+![Page 4](page4.png)
 
 ### Objectives
 
@@ -165,7 +165,7 @@ The following analyses were performed in Python before building the dashboard.
 
 ## Correlation Matrix
 
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](correlation_matrix.png)
 
 ### Purpose
 
@@ -175,7 +175,7 @@ Identify relationships between operational metrics and determine which factors h
 
 ## Event Impact Analysis
 
-![Event Impact](images/event_impact.png)
+![Event Impact](event_impact.png)
 
 ### Purpose
 
@@ -185,7 +185,7 @@ Evaluate how operational events influence patient demand, admissions, and refusa
 
 ## Patients by Service
 
-![Patients by Service](images/patients_by_service.png)
+![Patients by Service](patients_by_service.png)
 
 ### Purpose
 
@@ -195,7 +195,7 @@ Compare patient distribution across hospital services and identify departments e
 
 ## Service Pressure Analysis
 
-![Service Pressure](images/service_pressure.png)
+![Service Pressure](service_pressure.png)
 
 ### Purpose
 
@@ -226,10 +226,7 @@ This dashboard supports hospital decision-makers by helping them:
 
 ---
 
-# Author
-
-**Reem Mohamednur**
-
-Bioengineering Graduate | Data Analytics Enthusiast
+# link for dashboard
+https://app.powerbi.com/view?r=eyJrIjoiMjhmMTQ4MTQtZmYxYy00Y2IwLTk0ODAtZWFjNTA4MDI0OTBkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 Python • Power BI • Healthcare Analytics • Data Visualization
